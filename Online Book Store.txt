@@ -1,0 +1,12 @@
+online Book store
+
+1. Signup Page
+2. Login Page
+3. Different types of book will be available
+4. User can select any type of book
+5. Put any book in the cart
+6. Increase or decrease the quantity of books directly from the cart
+
+
+
+These would be some of the functioning details of my project "Online Book Store".
